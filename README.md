@@ -11,7 +11,7 @@ Software source code previously released under an open source license and then m
 
 ### About ###
 
-[Simple Features GeoJSON](http://ngageoint.github.io/simple-features-geojson-js/) is a Javascript library for reading and writing [Simple Feature](https://github.com/ngageoint/simple-features-js) Geometries to and from GeoJSON.
+[Simple Features GeoJSON](http://ngageoint.github.io/simple-features-geojson-js/) is a Javascript library for converting between [Simple Feature](https://github.com/ngageoint/simple-features-js) Geometries and GeoJSON.
 
 
 ### Usage ###
